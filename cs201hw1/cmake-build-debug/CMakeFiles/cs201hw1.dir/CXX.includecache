@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bulut/CLionProjects/cs201hw1/Course.cpp
+Course.h
+/Users/bulut/CLionProjects/cs201hw1/Course.h
+
+/Users/bulut/CLionProjects/cs201hw1/Course.h
+string
+-
+ostream
+-
+
+/Users/bulut/CLionProjects/cs201hw1/RegistrationSystem.cpp
+RegistrationSystem.h
+/Users/bulut/CLionProjects/cs201hw1/RegistrationSystem.h
+
+/Users/bulut/CLionProjects/cs201hw1/RegistrationSystem.h
+string
+-
+iostream
+-
+Student.h
+/Users/bulut/CLionProjects/cs201hw1/Student.h
+
+/Users/bulut/CLionProjects/cs201hw1/Student.cpp
+Student.h
+/Users/bulut/CLionProjects/cs201hw1/Student.h
+
+/Users/bulut/CLionProjects/cs201hw1/Student.h
+string
+-
+ostream
+-
+iostream
+-
+Course.h
+/Users/bulut/CLionProjects/cs201hw1/Course.h
+

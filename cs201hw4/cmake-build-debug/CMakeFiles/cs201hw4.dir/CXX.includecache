@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bulut/CLionProjects/cs201hw4/AlgebraicExpression.cpp
+Stack.cpp
+/Users/bulut/CLionProjects/cs201hw4/Stack.cpp
+AlgebraicExpression.h
+/Users/bulut/CLionProjects/cs201hw4/AlgebraicExpression.h
+
+/Users/bulut/CLionProjects/cs201hw4/AlgebraicExpression.h
+iostream
+-
+
+/Users/bulut/CLionProjects/cs201hw4/Stack.cpp
+cassert
+-
+Stack.h
+/Users/bulut/CLionProjects/cs201hw4/Stack.h
+
+/Users/bulut/CLionProjects/cs201hw4/Stack.h
+
+/Users/bulut/CLionProjects/cs201hw4/main.cpp
+AlgebraicExpression.h
+/Users/bulut/CLionProjects/cs201hw4/AlgebraicExpression.h
+

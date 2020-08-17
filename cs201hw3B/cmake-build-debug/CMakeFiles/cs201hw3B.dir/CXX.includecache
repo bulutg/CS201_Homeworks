@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bulut/CLionProjects/cs201hw3B/CompleteReg.cpp
+CompleteReg.h
+/Users/bulut/CLionProjects/cs201hw3B/CompleteReg.h
+stdexcept
+-
+
+/Users/bulut/CLionProjects/cs201hw3B/CompleteReg.h
+string
+-
+Team.h
+/Users/bulut/CLionProjects/cs201hw3B/Team.h
+
+/Users/bulut/CLionProjects/cs201hw3B/Player.h
+string
+-
+ostream
+-
+
+/Users/bulut/CLionProjects/cs201hw3B/Team.h
+string
+-
+stdio.h
+-
+iostream
+-
+Player.h
+/Users/bulut/CLionProjects/cs201hw3B/Player.h
+

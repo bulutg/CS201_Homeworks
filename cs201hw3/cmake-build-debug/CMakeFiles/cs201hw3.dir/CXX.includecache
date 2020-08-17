@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bulut/CLionProjects/cs201hw3/SimpleReg.cpp
+SimpleReg.h
+/Users/bulut/CLionProjects/cs201hw3/SimpleReg.h
+
+/Users/bulut/CLionProjects/cs201hw3/SimpleReg.h
+string
+-
+SimpleTeam.h
+/Users/bulut/CLionProjects/cs201hw3/SimpleTeam.h
+
+/Users/bulut/CLionProjects/cs201hw3/SimpleTeam.h
+string
+-
+stdio.h
+-
+iostream
+-
+
